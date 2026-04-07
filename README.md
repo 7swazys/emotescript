@@ -1,0 +1,2 @@
+# emotescript
+tdx emote script
